@@ -1,5 +1,5 @@
 # Unoesc
-Repositório destinado aos projetos desenvolvidos pelo Aluno Alysson Oliveira no curso de Análise e Desenvolvimento de Sistemas da Unoesc.
+Repositório destinado aos projetos desenvolvidos pelo aluno Alysson Oliveira no curso de Análise e Desenvolvimento de Sistemas da Unoesc.
 
 Jogo Pong Hau Ki:
 
