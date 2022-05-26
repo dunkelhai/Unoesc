@@ -10,4 +10,10 @@ Jogo Dragon's Hashtag:
 
 Voltado para a lógica e baseado no clássico jogo da velha, mas com uma implementação voltada à um jogo de estilo RPG. Projeto desenvolvido 100% em Python 3.
 
+OO Project:
+
+Projeto desenvolvido em aulas, com o Professor Maurício Gonzatto. Feito em C# e .NET usando o Visual Studio para compor as classes e testes desse sistema OO.
+
+
 Quaisquer dúvidas, sugestões e críticas sobre o código, podem ser comentadas dentro de cada projeto ou enviando um e-mail para darthvader.alysson@gmail.com .
+
