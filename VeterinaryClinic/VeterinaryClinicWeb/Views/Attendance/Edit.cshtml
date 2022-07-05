@@ -1,0 +1,71 @@
+﻿@model VeterinaryClinic.BL.Attendance
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Attendance</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Animal" class="control-label"></label>
+                <select asp-for="AnimalId" class="form-control" asp-items="ViewBag.AnimalId"></select>
+                <span asp-validation-for="AnimalId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vet" class="control-label"></label>
+                <select asp-for="VetId" class="form-control" asp-items="ViewBag.VetId"></select>
+                <span asp-validation-for="VetId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Clinic" class="control-label"></label>
+                <select asp-for="ClinicId" class="form-control" asp-items="ViewBag.ClinicId"></select>
+                <span asp-validation-for="ClinicId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AttendanceDate" class="control-label"></label>
+                <input asp-for="AttendanceDate" class="form-control" />
+                <span asp-validation-for="AttendanceDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Procedures" class="control-label"></label>
+                @*<select asp-for="Procedures" class="form-control" asp-items="ViewBag.ProcedureId"></select>*@
+                <div class="row">
+                    @foreach (var procedure in (List<Procedure>)ViewBag.Procedures)
+                    {
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="@procedure.Id" name="Procedures" id="procedure-@procedure.Id" @(Model.Procedures.Contains(procedure) ? "checked" : string.Empty)>
+                            <label class="form-check-label" for="procedure-@procedure.Id">
+                                @procedure.ProcedureName
+                            </label>
+                        </div>
+                    }
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Observation" class="control-label"></label>
+                <input asp-for="Observation" class="form-control" />
+                <span asp-validation-for="Observation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
