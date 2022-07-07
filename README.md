@@ -14,6 +14,10 @@ OO Project:
 
 Projeto desenvolvido em aulas, com o Professor Maurício Gonzatto. Feito em C# e .NET usando o Visual Studio para compor as classes e testes desse sistema OO.
 
+Projeto de Clínica Veterinária:
+
+Projeto desenvolvido em aulas, com o Professor Maurício Gonzatto. Feito em C# e .NET usando o Rider para compor as classes e testes desse sistema. Diagrama de classes em anexo também.
+
 
 Quaisquer dúvidas, sugestões e críticas sobre o código, podem ser comentadas dentro de cada projeto ou enviando um e-mail para darthvader.alysson@gmail.com .
 
