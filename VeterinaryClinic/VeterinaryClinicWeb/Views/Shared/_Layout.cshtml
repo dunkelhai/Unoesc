@@ -3,16 +3,17 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - VeterinaryClinicWeb</title>
+    <title>@ViewData["Title"] - Clínica Veterinária Web</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <img src="https://i0.wp.com/66.media.tumblr.com/2993661f59f790fe152d35d123185a56/tumblr_mr8cc9oHk11spzgpco1_500.gif">
     <link rel="stylesheet" href="~/VeterinaryClinicWeb.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">VeterinaryClinicWeb</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Clínica Veterinária</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -20,31 +21,28 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="clinic" asp-action="Index">Clínicas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="clinic" asp-action="Index">Clinic</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="attendance" asp-action="Index">Atendimentos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="attendance" asp-action="Index">Attendances</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="procedure" asp-action="Index">Procedimentos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="procedure" asp-action="Index">Procedures</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="vet" asp-action="Index">Veterinários</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="vet" asp-action="Index">Vets</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="animalresponsible" asp-action="Index">Responsáveis</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="animalresponsible" asp-action="Index">Responsibles</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="animal" asp-action="Index">Pets</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="animal" asp-action="Index">Animals</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="race" asp-action="Index">Raças</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="race" asp-action="Index">Races</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="specie" asp-action="Index">Species</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="specie" asp-action="Index">Espécies</a>
                         </li>
                     </ul>
                 </div>
@@ -59,7 +57,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2022 - VeterinaryClinicWeb - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2022 - Clínica Veterinária Web - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacidade</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

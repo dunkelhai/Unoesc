@@ -22,3 +22,15 @@ C:/Projetos/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/ref/VeterinaryClinic.
 /Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/refint/VeterinaryClinic.BL.dll
 /Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/VeterinaryClinic.BL.pdb
 /Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/ref/VeterinaryClinic.BL.dll
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/bin/Debug/net6.0/VeterinaryClinic.BL.deps.json
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/bin/Debug/net6.0/VeterinaryClinic.BL.dll
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/bin/Debug/net6.0/VeterinaryClinic.BL.pdb
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/VeterinaryClinic.BL.csproj.AssemblyReference.cache
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/VeterinaryClinic.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/VeterinaryClinic.BL.AssemblyInfoInputs.cache
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/VeterinaryClinic.BL.AssemblyInfo.cs
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/VeterinaryClinic.BL.csproj.CoreCompileInputs.cache
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/VeterinaryClinic.BL.dll
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/refint/VeterinaryClinic.BL.dll
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/VeterinaryClinic.BL.pdb
+/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/Debug/net6.0/ref/VeterinaryClinic.BL.dll

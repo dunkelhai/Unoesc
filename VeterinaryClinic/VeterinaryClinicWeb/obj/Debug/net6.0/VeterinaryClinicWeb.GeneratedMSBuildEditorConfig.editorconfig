@@ -8,197 +8,197 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VeterinaryClinicWeb
 build_property.RootNamespace = VeterinaryClinicWeb
-build_property.ProjectDir = /Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/
+build_property.ProjectDir = /Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb
+build_property.MSBuildProjectDirectory = /Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Create.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Delete.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Details.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Edit.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Animal/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Create.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsUmVzcG9uc2libGUvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Delete.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsUmVzcG9uc2libGUvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Details.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsUmVzcG9uc2libGUvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Edit.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsUmVzcG9uc2libGUvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/AnimalResponsible/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5pbWFsUmVzcG9uc2libGUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Create.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXR0ZW5kYW5jZS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Delete.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXR0ZW5kYW5jZS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Details.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXR0ZW5kYW5jZS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Edit.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXR0ZW5kYW5jZS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Attendance/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXR0ZW5kYW5jZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Create.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Delete.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Details.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Edit.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Clinic/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Home/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Home/Privacy.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Create.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvY2VkdXJlL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Delete.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvY2VkdXJlL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Details.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvY2VkdXJlL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Edit.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvY2VkdXJlL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Procedure/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvY2VkdXJlL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Create.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Delete.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Details.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Edit.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Race/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Shared/Error.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Create.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2llL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Delete.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2llL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Details.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2llL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Edit.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2llL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Specie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2llL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Create.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmV0L0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Delete.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmV0L0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Details.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmV0L0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Edit.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmV0L0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Index.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Vet/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmV0L0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/_ViewImports.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/_ViewStart.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/Views/Shared/_Layout.cshtml]
+[/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-edxm7rtmq7

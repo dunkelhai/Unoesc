@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/VeterinaryClinicWeb.csproj": {}
+    "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/VeterinaryClinicWeb.csproj": {}
   },
   "projects": {
-    "/Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj": {
+    "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj",
+        "projectUniqueName": "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj",
         "projectName": "VeterinaryClinic.BL",
-        "projectPath": "/Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj",
+        "projectPath": "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj",
         "packagesPath": "/Users/Alysson/.nuget/packages/",
-        "outputPath": "/Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/obj/",
+        "outputPath": "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Alysson/.nuget/NuGet/NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/VeterinaryClinicWeb.csproj": {
+    "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/VeterinaryClinicWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/VeterinaryClinicWeb.csproj",
+        "projectUniqueName": "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/VeterinaryClinicWeb.csproj",
         "projectName": "VeterinaryClinicWeb",
-        "projectPath": "/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/VeterinaryClinicWeb.csproj",
+        "projectPath": "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/VeterinaryClinicWeb.csproj",
         "packagesPath": "/Users/Alysson/.nuget/packages/",
-        "outputPath": "/Users/Alysson/Downloads/VeterinaryClinic/VeterinaryClinicWeb/obj/",
+        "outputPath": "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VeterinaryClinicWeb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Alysson/.nuget/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj": {
-                "projectPath": "/Users/Alysson/Downloads/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj"
+              "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj": {
+                "projectPath": "/Users/Alysson/GitHub/Unoesc/VeterinaryClinic/VetClinic.BL/VeterinaryClinic.BL.csproj"
               }
             }
           }

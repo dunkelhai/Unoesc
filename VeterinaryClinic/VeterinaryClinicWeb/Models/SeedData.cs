@@ -21,7 +21,7 @@ namespace VeterinaryClinicWeb.Models
             {
                 bancoContext.Clinics.AddRange(new Clinic
                 {
-                    Name = "Vida Vet"
+                    Name = "Vet Inicial"
                 }
                 );
             }

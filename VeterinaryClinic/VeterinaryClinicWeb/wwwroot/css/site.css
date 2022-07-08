@@ -1,19 +1,41 @@
 html {
   font-size: 14px;
-  background-color: #842029;
+  font-family: Monaco, sans-serif;
+
 }
 
 @media (min-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 15px;
+    font-family: Monaco, sans-serif;
+
   }
 }
 
 html {
   position: relative;
   min-height: 100%;
+  font-family: Monaco, sans-serif;
+
+}
+
+head {
+  padding-top: 200px;
+  font-family: Monaco, sans-serif;
+  font-weight: bold;
+  background-color: #0077cc;
+  text-align-all: center;
 }
 
 body {
-  margin-bottom: 60px;
+  font-family: Monaco, sans-serif;
+  background-color: #b6d4fe;
+  
+}
+
+footer {
+  font-family: Monaco, sans-serif;
+  background-color: #ffffff;
+  align-content: center;
+
 }
