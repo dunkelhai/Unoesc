@@ -1,22 +1,21 @@
 ﻿<Properties StartupConfiguration="{D378A5DA-286B-4E3C-99C4-4AC0C676D432}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Web.VeterinaryClinicWeb PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web.VeterinaryClinicWeb PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="VeterinaryClinicWeb/Program.cs">
     <Files>
-      <File FileName="VeterinaryClinicWeb/Program.cs" Line="40" Column="22" />
+      <File FileName="VeterinaryClinicWeb/Program.cs" Line="42" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VeterinaryClinic" expanded="True">
             <Node name="Web" expanded="True">
-              <Node name="VeterinaryClinicWeb" expanded="True">
-                <Node name="Program.cs" selected="True" />
-              </Node>
+              <Node name="VeterinaryClinicWeb" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,5 +25,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
 </Properties>
