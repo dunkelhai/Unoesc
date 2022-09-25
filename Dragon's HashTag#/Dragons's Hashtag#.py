@@ -449,7 +449,6 @@ def imprimirTabuleiro(tabuleiro):
         '3'] + '    █')
     print('                              █████████████████\n')
 
-
 global listapontos
 listapontos = []
 global pontosladino
@@ -460,7 +459,6 @@ global pontosarqueiro
 pontosarqueiro = 0
 global pontospaladino
 pontospaladino = 0
-
 
 def game():
     global transformer, count, pontospaladino, pontosarqueiro, pontosguerreiro, listapontos, pontosladino
@@ -879,6 +877,5 @@ def game():
         menunovamente = input("\nGostaria de voltar ao menu principal Nobre Herói?\n1 para SIM.\n2 para NÃO.\n")
         if menunovamente == '1':
             game()
-
 
 game()
